@@ -1,0 +1,2 @@
+Mean of Temperatures: 56.2
+Mean of Scores: 52.43
